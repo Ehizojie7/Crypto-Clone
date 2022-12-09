@@ -1,2 +1,2 @@
-# A Crypto Websie
+# A Crypto Website
 A Crypto Platform
