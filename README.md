@@ -1,2 +1,2 @@
-# A Crypto Website
-A Crypto Platform
+# CryptoVerse
+A Crypto landing page that was built using vanilla css
